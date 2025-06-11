@@ -6,4 +6,4 @@
 - git
 - SQL
 
-Pro naklonování repozitáře použij příkaz 'git clone' .
+Pro naklonování repozitáře použij příkaz 'git clone'.
